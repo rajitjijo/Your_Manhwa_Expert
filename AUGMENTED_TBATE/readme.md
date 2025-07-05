@@ -1,4 +1,4 @@
-#TBATE LLM With RAG
+# TBATE LLM With RAG
 
 So this package will use the gpt-4o-mini till i have credits available to become an llm whos a domain expert on The beggining after the end.
 
